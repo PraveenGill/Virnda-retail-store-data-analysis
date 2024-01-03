@@ -18,12 +18,12 @@ Eye-catching charts are made to facilitate easy understanding and interpretation
 7.  Which channel is contributing to maximum to the sales?
 8.  Which is highest selling product category?
 # Insights :
-> January, February and March have highest number of sale and order placed
-> Women customers are more likely to buy products compared to men(64%)
-> Most of order were delivered in 2022 (92%)
-> Top 10 states contributing to sales with highest sales are: Maharashtra, Karnataka, Uttar Pradesh, Telangana, Tamil Nadu, Delhi, Kerala, West Bengal, Andhra Pradesh and Haryana
-> Adult group placed highest order (75.68%) where
-> Amazon (36%) is highest contributing channel
+* January, February and March have highest number of sale and order placed
+* Women customers are more likely to buy products compared to men(64%)
+* Most of order were delivered in 2022 (92%)
+* Top 10 states contributing to sales with highest sales are: Maharashtra, Karnataka, Uttar Pradesh, Telangana, Tamil Nadu, Delhi, Kerala, West Bengal, Andhra Pradesh and Haryana
+* Adult group placed highest order (75.68%) where
+* Amazon (36%) is highest contributing channel
 # Conclusion:
 To improve sales of the store, women customers of age group of states Maharashtra, Karnataka, Uttar Pradesh, Telengana and Tamil Nadu should be targeted by displaying ads, offers and coupons on Amazon, Myntra and Flipkart focusing on set and kurta category of products in the month of February and March.
 
